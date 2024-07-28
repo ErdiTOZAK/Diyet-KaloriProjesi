@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EF_DietaryProject.DAL
+build_property.ProjectDir = C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

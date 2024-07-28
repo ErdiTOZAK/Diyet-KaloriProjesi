@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\bin\Release\net8.0\EF_DietaryProject.DAL.deps.json
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\bin\Release\net8.0\EF_DietaryProject.DAL.runtimeconfig.json
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\bin\Release\net8.0\EF_DietaryProject.DAL.dll
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\bin\Release\net8.0\EF_DietaryProject.DAL.pdb
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\bin\Release\net8.0\EF_DietaryProject.Entities.dll
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\bin\Release\net8.0\EF_DietaryProject.Entities.pdb
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\obj\Release\net8.0\EF_DietaryProject.DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\obj\Release\net8.0\EF_DietaryProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\obj\Release\net8.0\EF_DietaryProject.DAL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\obj\Release\net8.0\EF_DietaryProject.DAL.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\obj\Release\net8.0\EF_DietaryProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\obj\Release\net8.0\EF_DietaryProject.DAL.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\obj\Release\net8.0\EF_DietaryProject.DAL.dll
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\obj\Release\net8.0\refint\EF_DietaryProject.DAL.dll
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\obj\Release\net8.0\EF_DietaryProject.DAL.pdb
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\obj\Release\net8.0\EF_DietaryProject.DAL.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.DAL\obj\Release\net8.0\ref\EF_DietaryProject.DAL.dll

@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B275D852-EDDD-4A8C-9394-862644882C19}|EF_DietaryProject.UI\\EF_DietaryProject.UI.csproj|C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\ef_dietaryproject.ui\\mealprocessesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B275D852-EDDD-4A8C-9394-862644882C19}|EF_DietaryProject.UI\\EF_DietaryProject.UI.csproj|solutionrelative:ef_dietaryproject.ui\\mealprocessesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B275D852-EDDD-4A8C-9394-862644882C19}|EF_DietaryProject.UI\\EF_DietaryProject.UI.csproj|C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\ef_dietaryproject.ui\\mealprocessesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B275D852-EDDD-4A8C-9394-862644882C19}|EF_DietaryProject.UI\\EF_DietaryProject.UI.csproj|solutionrelative:ef_dietaryproject.ui\\mealprocessesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D25FC4-D176-4476-8B78-763886243337}|EF_DietaryProject.DAL\\EF_DietaryProject.DAL.csproj|c:\\users\\hp\\desktop\\ef_dietaryrroject_v13\\ef_dietaryproject.dal\\seeddata\\foodseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D25FC4-D176-4476-8B78-763886243337}|EF_DietaryProject.DAL\\EF_DietaryProject.DAL.csproj|solutionrelative:ef_dietaryproject.dal\\seeddata\\foodseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\Migrations\\20240420121437_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EF_DietaryProject.DAL\\Migrations\\20240420121437_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\Migrations\\20240420120811_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EF_DietaryProject.DAL\\Migrations\\20240420120811_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D25FC4-D176-4476-8B78-763886243337}|EF_DietaryProject.DAL\\EF_DietaryProject.DAL.csproj|C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\ef_dietaryproject.dal\\seeddata\\foodcategoryseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D25FC4-D176-4476-8B78-763886243337}|EF_DietaryProject.DAL\\EF_DietaryProject.DAL.csproj|solutionrelative:ef_dietaryproject.dal\\seeddata\\foodcategoryseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B275D852-EDDD-4A8C-9394-862644882C19}|EF_DietaryProject.UI\\EF_DietaryProject.UI.csproj|c:\\users\\hp\\desktop\\ef_dietaryrroject_v13\\ef_dietaryproject.ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B275D852-EDDD-4A8C-9394-862644882C19}|EF_DietaryProject.UI\\EF_DietaryProject.UI.csproj|solutionrelative:ef_dietaryproject.ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B275D852-EDDD-4A8C-9394-862644882C19}|EF_DietaryProject.UI\\EF_DietaryProject.UI.csproj|C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\ef_dietaryproject.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B275D852-EDDD-4A8C-9394-862644882C19}|EF_DietaryProject.UI\\EF_DietaryProject.UI.csproj|solutionrelative:ef_dietaryproject.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3776FCD7-4FAA-414F-84E9-79FBC66019F5}|EF_DietaryProject.Entities\\EF_DietaryProject.Entities.csproj|C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\ef_dietaryproject.entities\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3776FCD7-4FAA-414F-84E9-79FBC66019F5}|EF_DietaryProject.Entities\\EF_DietaryProject.Entities.csproj|solutionrelative:ef_dietaryproject.entities\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D25FC4-D176-4476-8B78-763886243337}|EF_DietaryProject.DAL\\EF_DietaryProject.DAL.csproj|C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\ef_dietaryproject.dal\\context\\dietarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D25FC4-D176-4476-8B78-763886243337}|EF_DietaryProject.DAL\\EF_DietaryProject.DAL.csproj|solutionrelative:ef_dietaryproject.dal\\context\\dietarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3776FCD7-4FAA-414F-84E9-79FBC66019F5}|EF_DietaryProject.Entities\\EF_DietaryProject.Entities.csproj|C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\ef_dietaryproject.entities\\enumentities\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3776FCD7-4FAA-414F-84E9-79FBC66019F5}|EF_DietaryProject.Entities\\EF_DietaryProject.Entities.csproj|solutionrelative:ef_dietaryproject.entities\\enumentities\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B275D852-EDDD-4A8C-9394-862644882C19}|EF_DietaryProject.UI\\EF_DietaryProject.UI.csproj|C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\ef_dietaryproject.ui\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B275D852-EDDD-4A8C-9394-862644882C19}|EF_DietaryProject.UI\\EF_DietaryProject.UI.csproj|solutionrelative:ef_dietaryproject.ui\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B275D852-EDDD-4A8C-9394-862644882C19}|EF_DietaryProject.UI\\EF_DietaryProject.UI.csproj|C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\ef_dietaryproject.ui\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B275D852-EDDD-4A8C-9394-862644882C19}|EF_DietaryProject.UI\\EF_DietaryProject.UI.csproj|solutionrelative:ef_dietaryproject.ui\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D25FC4-D176-4476-8B78-763886243337}|EF_DietaryProject.DAL\\EF_DietaryProject.DAL.csproj|C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\ef_dietaryproject.dal\\repositories\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D25FC4-D176-4476-8B78-763886243337}|EF_DietaryProject.DAL\\EF_DietaryProject.DAL.csproj|solutionrelative:ef_dietaryproject.dal\\repositories\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D25FC4-D176-4476-8B78-763886243337}|EF_DietaryProject.DAL\\EF_DietaryProject.DAL.csproj|C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\Migrations\\20240419132610_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D25FC4-D176-4476-8B78-763886243337}|EF_DietaryProject.DAL\\EF_DietaryProject.DAL.csproj|solutionrelative:EF_DietaryProject.DAL\\Migrations\\20240419132610_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240420121437_mig2.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\Migrations\\20240420121437_mig2.cs",
+              "RelativeDocumentMoniker": "EF_DietaryProject.DAL\\Migrations\\20240420121437_mig2.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\Migrations\\20240420121437_mig2.cs",
+              "RelativeToolTip": "EF_DietaryProject.DAL\\Migrations\\20240420121437_mig2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T12:14:38.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240420120811_mig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\Migrations\\20240420120811_mig.cs",
+              "RelativeDocumentMoniker": "EF_DietaryProject.DAL\\Migrations\\20240420120811_mig.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\Migrations\\20240420120811_mig.cs",
+              "RelativeToolTip": "EF_DietaryProject.DAL\\Migrations\\20240420120811_mig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T12:08:11.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodSeedData.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\SeedData\\FoodSeedData.cs",
+              "RelativeDocumentMoniker": "EF_DietaryProject.DAL\\SeedData\\FoodSeedData.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\SeedData\\FoodSeedData.cs",
+              "RelativeToolTip": "EF_DietaryProject.DAL\\SeedData\\FoodSeedData.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAApwGIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T12:06:14.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.UI\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "EF_DietaryProject.UI\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.UI\\RegisterForm.cs",
+              "RelativeToolTip": "EF_DietaryProject.UI\\RegisterForm.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAEwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:20:10.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "EF_DietaryProject.UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.UI\\MainForm.cs",
+              "RelativeToolTip": "EF_DietaryProject.UI\\MainForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:17:46.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodCategorySeedData.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\SeedData\\FoodCategorySeedData.cs",
+              "RelativeDocumentMoniker": "EF_DietaryProject.DAL\\SeedData\\FoodCategorySeedData.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\SeedData\\FoodCategorySeedData.cs",
+              "RelativeToolTip": "EF_DietaryProject.DAL\\SeedData\\FoodCategorySeedData.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAEQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T19:43:18.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.Entities\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "EF_DietaryProject.Entities\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.Entities\\Entities\\AppUser.cs",
+              "RelativeToolTip": "EF_DietaryProject.Entities\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T19:10:04.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Target.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.Entities\\EnumEntities\\Target.cs",
+              "RelativeDocumentMoniker": "EF_DietaryProject.Entities\\EnumEntities\\Target.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.Entities\\EnumEntities\\Target.cs",
+              "RelativeToolTip": "EF_DietaryProject.Entities\\EnumEntities\\Target.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:37:19.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240419132610_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\Migrations\\20240419132610_Initial.cs",
+              "RelativeDocumentMoniker": "EF_DietaryProject.DAL\\Migrations\\20240419132610_Initial.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\Migrations\\20240419132610_Initial.cs",
+              "RelativeToolTip": "EF_DietaryProject.DAL\\Migrations\\20240419132610_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:26:10.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DietaryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\Context\\DietaryDbContext.cs",
+              "RelativeDocumentMoniker": "EF_DietaryProject.DAL\\Context\\DietaryDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\Context\\DietaryDbContext.cs",
+              "RelativeToolTip": "EF_DietaryProject.DAL\\Context\\DietaryDbContext.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:23:45.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.UI\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "EF_DietaryProject.UI\\ReportsForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.UI\\ReportsForm.cs",
+              "RelativeToolTip": "EF_DietaryProject.UI\\ReportsForm.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAKwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:17:03.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FoodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\Repositories\\FoodRepository.cs",
+              "RelativeDocumentMoniker": "EF_DietaryProject.DAL\\Repositories\\FoodRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.DAL\\Repositories\\FoodRepository.cs",
+              "RelativeToolTip": "EF_DietaryProject.DAL\\Repositories\\FoodRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:23:46.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MealProcessesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.UI\\MealProcessesForm.cs",
+              "RelativeDocumentMoniker": "EF_DietaryProject.UI\\MealProcessesForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.UI\\MealProcessesForm.cs [Design]",
+              "RelativeToolTip": "EF_DietaryProject.UI\\MealProcessesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:42:09.209Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.UI\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "EF_DietaryProject.UI\\ReportsForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\EF_DietaryProject_v12\\EF_DietaryProject.UI\\ReportsForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Downloads\\EF_DietaryProject_v12\\EF_DietaryProject.UI\\ReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:20:50.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MealProcessesForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.UI\\MealProcessesForm.cs",
+              "RelativeDocumentMoniker": "EF_DietaryProject.UI\\MealProcessesForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EF_DietaryRroject_V13\\EF_DietaryProject.UI\\MealProcessesForm.cs",
+              "RelativeToolTip": "EF_DietaryProject.UI\\MealProcessesForm.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAApwOkAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:15:46.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.Entities\bin\Release\net8.0\EF_DietaryProject.Entities.deps.json
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.Entities\bin\Release\net8.0\EF_DietaryProject.Entities.dll
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.Entities\bin\Release\net8.0\EF_DietaryProject.Entities.pdb
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.Entities\obj\Release\net8.0\EF_DietaryProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.Entities\obj\Release\net8.0\EF_DietaryProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.Entities\obj\Release\net8.0\EF_DietaryProject.Entities.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.Entities\obj\Release\net8.0\EF_DietaryProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.Entities\obj\Release\net8.0\EF_DietaryProject.Entities.dll
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.Entities\obj\Release\net8.0\refint\EF_DietaryProject.Entities.dll
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.Entities\obj\Release\net8.0\EF_DietaryProject.Entities.pdb
+C:\Users\Lenovo\Desktop\HS14\2924.04.11-Ara_Proje\EF_DietaryProject_v6_Deneme\EF_DietaryProject_v5\EF_DietaryProject\EF_DietaryProject.Entities\obj\Release\net8.0\ref\EF_DietaryProject.Entities.dll

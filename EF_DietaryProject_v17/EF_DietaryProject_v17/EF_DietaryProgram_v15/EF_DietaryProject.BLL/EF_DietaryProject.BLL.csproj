@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EF_DietaryProject.DAL\EF_DietaryProject.DAL.csproj" />
+    <ProjectReference Include="..\EF_DietaryProject.Entities\EF_DietaryProject.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
